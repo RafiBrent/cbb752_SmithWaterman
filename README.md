@@ -15,8 +15,10 @@ The code takes optional parameters specifying the gap extension penalty and the 
 ## Code examples
 
 General usage:
+
 ```python3 hw1.py -i <input file> -s <score file> -o <gap opening penalty> -e <gap extension penalty>```
 
 Specific example:
+
 ```python3 hw1.py -i sample-input1.txt -s blosum62.txt -o -3 -e -2```
 
