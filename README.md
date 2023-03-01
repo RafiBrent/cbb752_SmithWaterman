@@ -4,7 +4,7 @@ Implementation of the Smith-Waterman Sequence Alignment Algorithm
 
 ## Cloning
 
-Run the following code in order to set up the code on a local computer:
+Run the following code in order to clone the repository to a local computer:
 
 
 ```git clone https://github.com/RafiBrent/cbb752_SmithWaterman.git```
