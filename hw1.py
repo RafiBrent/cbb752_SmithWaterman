@@ -199,4 +199,4 @@ def runSW(inputFile, scoreFile, openGap=-2, extGap=-1):
     f.write(aligned_2+'\n')
 
 #Running the function defined above with the user's arguments
-runSW(args.input, args.score, args.opengap, args.extgap)
+runSW(args.input, args.score, float(args.opengap), float(args.extgap))
