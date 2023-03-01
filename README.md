@@ -7,9 +7,9 @@ Implementation of the Smith-Waterman Sequence Alignment Algorithm
 Run the following code in order to set up the code on a local computer:
 
 
-```git clone https://github.com/RafiBrent/cbb752_WatermanSmith.git```
+```git clone https://github.com/RafiBrent/cbb752_SmithWaterman.git```
 
-```cd SmithWaterman```
+```cd cbb752_SmithWaterman/SmithWaterman```
 
 ## Input/Output files
 
