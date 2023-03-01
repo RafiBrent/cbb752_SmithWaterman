@@ -29,5 +29,5 @@ General usage:
 
 Specific example:
 
-```python3 hw1.py -i sample-input1.txt -s blosum62.txt -o -3 -e -2```
+```python3 hw1.py -i sample_input.txt -s blosum62.txt -o -3 -e -2```
 
