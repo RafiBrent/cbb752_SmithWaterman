@@ -2,6 +2,15 @@
 
 Implementation of the Smith-Waterman Sequence Alignment Algorithm
 
+## Cloning
+
+Run the following code in order to set up the code on a local computer:
+
+
+```git clone https://github.com/RafiBrent/cbb752_WatermanSmith.git```
+
+```cd SmithWaterman```
+
 ## Input/Output files
 
 The code requires two input files, one containing the sequences to be aligned (see sample_input.txt for an example) and another containing the pairwise residue similarity matrix (see blosum62.txt for an example).
