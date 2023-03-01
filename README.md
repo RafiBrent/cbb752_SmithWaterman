@@ -1,5 +1,5 @@
 # cbb752_WatermanSmith
-Implementation of the Waterman-Smith Sequence Alignment Algorithm
+Implementation of the Smith-Waterman Sequence Alignment Algorithm
 
 ## Code example
 
