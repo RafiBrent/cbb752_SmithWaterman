@@ -1,4 +1,4 @@
-# cbb752_WatermanSmith
+# cbb752_SmithWaterman
 
 Implementation of the Smith-Waterman Sequence Alignment Algorithm
 
