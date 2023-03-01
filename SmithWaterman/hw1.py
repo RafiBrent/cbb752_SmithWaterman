@@ -43,6 +43,8 @@ def runSW(inputFile, scoreFile, openGap=-2, extGap=-1):
     lines=f.readlines()
     seq_1=lines[0][:-1]
     seq_2=lines[1]
+  if seq_2[-1]=='\n':
+    seq_2=seq_2[:-1]
 
   #Sequentially fill a score matrix according to the Smith-Waterman algorithm, and save the path to "origin" location of each newly-created
   #score in a step matrix.
